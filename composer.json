@@ -1,5 +1,5 @@
 {
-    "name": "cttpar/webpack-bundle",
+    "name": "maba/webpack-bundle",
     "type": "symfony-bundle",
     "description": "Bundle to Integrate Webpack to Symfony by maba",
     "keywords": ["webpack", "assets", "symfony", "symfony2", "amd", "commonjs"],
