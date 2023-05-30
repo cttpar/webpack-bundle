@@ -18,7 +18,7 @@
         "symfony/routing": "^2.7|^3.0|^4.0",
         "symfony/process": "^2.5|^3.0|^4.0",
         "symfony/dependency-injection": "^2.6|^3.0|^4.0",
-        "symfony/twig-bundle": "^2.3|^3.0|^4.0",
+        "symfony/twig-bundle": "^3.4|^4.0",
         "symfony/monolog-bundle": "^2.3|^3.0|^4.0",
         "twig/twig": "^2.14",
         "maba/dependency-injection-extra": "^0.1.1|^1.0"
